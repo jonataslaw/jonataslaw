@@ -7,8 +7,6 @@ My personal email is: <jonataborges01@gmail.com> , you can contact me through it
 
 ### Languages and Tools:
 
-<img align="left" alt="Vim" width="50px" src="https://user-images.githubusercontent.com/60929919/89158026-22d86980-d58b-11ea-8103-6187ccc9bc46.gif" />
-<img align="left" alt="Neovim" height=20px width="50px" src="https://user-images.githubusercontent.com/60929919/89158021-210ea600-d58b-11ea-80ba-52b0e11913d7.png" />
 <img align="left" alt="Flutter" height=20px width="50px"  src="https://user-images.githubusercontent.com/60929919/89158591-ff61ee80-d58b-11ea-9305-969d9e92363a.png" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
