@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
- Before that I worked with backend development (javascript and php), frontend development (bootstrap, react, angular), and mobile developer (native android with java and kotlin, native ios with swift and objc, xamarin, and react native).
+I'm <strong>Jonatas</strong>, a lawyer and a programmer passionate about productivity hacks. I spent a decade working with CyberSecurity and CyberCrimes, but in 2016 I learned the Dart language, then Flutter, and today I am passionate about everything related to that language. Before that I worked with <strong>backend development</strong> (javascript and php), <strong>frontend development</strong> (bootstrap, react, angular), and <strong>mobile development</strong> (native android with java and kotlin, native ios with swift and objc, xamarin, and react native).
  
-I am the creator of GetX, a mobile/frontend framework capable of accelerating mobile, web and desktop development, which uses Flutter as a base, and of GetServer, a backend framework based on the same syntax, as well as authoring some multiplatform native solutions for the Flutter, like VideoCompress. I'm passionate about productivity hacks, and I try to make other developers' lives more productive.
+I am the creator of <strong>GetX</strong>, a mobile/frontend framework capable of accelerating mobile, web and desktop development, which uses Flutter as a base, and of <strong>GetServer</strong>, a backend framework based on the same syntax, as well as authoring some multiplatform native solutions for the Flutter, like <strong>VideoCompress</strong>. I'm passionate about <strong>productivity hacks</strong>, and I try to make other developers' lives more productive.
 
-Today I work mostly with consultancy: legal, generally related to privacy policies, terms of use, data protection laws, or techniques related to backend/frontend projects, related to structure, organization and security. 
+Today I work mostly with consultancy: <strong>legal</strong>, generally related to privacy policies, terms of use, data protection laws, or <strong>technical</strong> related to backend/frontend projects, related to structure, organization and security. 
 
 </p>
 
