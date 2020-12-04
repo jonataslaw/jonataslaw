@@ -1,11 +1,26 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-- I am a lawyer and a programmer. My emphasis has always been on information security and cybercrimes, but in 2016 I got to know the Dart language, then Flutter, and today I am passionate about everything related to that language.
-- I'm a native programmer (Android and iOS) for 6 years, I worked with Xamarin and React native, but I'm closed with Flutter now. I worked as a frontend since 2008, and backend (php, Node.js and python) for 7 years. And 17 years ago I was already breaking into my first system.
-- Today I don't dedicate myself to this anymore, but I try to make other people's lives better, building packages for productivity, like GetX, making learning Flutter easy, and making you produce more, with less lines of code.
-My personal email is: <jonataborges01@gmail.com> , you can contact me through it.
+<p align="left"> 
+ Before that I worked with backend development (javascript and php), frontend development (bootstrap, react, angular), and mobile developer (native android with java and kotlin, native ios with swift and objc, xamarin, and react native).
+I am the creator of GetX, a mobile/frontend framework capable of accelerating mobile, web and desktop development, which uses Flutter as a base, and of GetServer, a backend framework based on the same syntax, as well as authoring some multiplatform native solutions for the Flutter, like VideoCompress. I'm passionate about productivity hacks, and I try to make other developers' lives more productive.
+Today I work mostly with consultancy: legal, generally related to privacy policies, terms of use, data protection laws, or techniques related to backend/frontend projects, related to structure, organization and security. 
 
-### Languages and Tools:
+</p>
+
+<p align="left">
+  🦄 Skills: <strong>HTML5, CSS3, JavaScript, Bootstrap, Materialize, Flutter, Java, Kotlin, Swift, Objetive-c.</strong>
+</p>
+
+<p align="left">
+  💼 Tools: <strong>Visual Studio Code, Android Studio, Xcode and Git.</strong>
+</p>
+
+<p align="left">
+  💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message: ⤵️
+</p>
+
+legal: borgesadvocacia@adv.oabsp.org.br
+personal: jonataborges01@gmail.com
 
 <img align="left" alt="Flutter" height=20px width="50px"  src="https://user-images.githubusercontent.com/60929919/89158591-ff61ee80-d58b-11ea-9305-969d9e92363a.png" />
 
