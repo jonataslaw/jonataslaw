@@ -2,7 +2,9 @@
 
 <p align="left"> 
  Before that I worked with backend development (javascript and php), frontend development (bootstrap, react, angular), and mobile developer (native android with java and kotlin, native ios with swift and objc, xamarin, and react native).
+ 
 I am the creator of GetX, a mobile/frontend framework capable of accelerating mobile, web and desktop development, which uses Flutter as a base, and of GetServer, a backend framework based on the same syntax, as well as authoring some multiplatform native solutions for the Flutter, like VideoCompress. I'm passionate about productivity hacks, and I try to make other developers' lives more productive.
+
 Today I work mostly with consultancy: legal, generally related to privacy policies, terms of use, data protection laws, or techniques related to backend/frontend projects, related to structure, organization and security. 
 
 </p>
@@ -37,7 +39,7 @@ personal: jonataborges01@gmail.com
 </br>
 </br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jonataslaw&count_private=true&theme=buefy&show_icons=true)](https://github.com/jonataslaw)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jonataslaw&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/jonataslaw)
 </br>
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonataslaw&layout=compact)](https://github.com/jonataslaw/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonataslaw&layout=compact&theme=tokyonight)](https://github.com/jonataslaw/)
