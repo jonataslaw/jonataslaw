@@ -10,11 +10,11 @@ Today I work mostly with consultancy: <strong>legal</strong>, generally related 
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>HTML5, CSS3, JavaScript, Bootstrap, Materialize, Flutter, Java, Kotlin, Swift, Objetive-c.</strong>
+  🦄 <strong>Skills:</strong> HTML5, CSS3, JavaScript, Bootstrap, Materialize, Flutter, Java, Kotlin, Swift, Objetive-c.
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, Android Studio, Xcode and Git.</strong>
+  💼 <strong>Tools:</strong> Visual Studio Code, Android Studio, Xcode and Git.
 </p>
 
 <p align="left">
@@ -39,7 +39,7 @@ personal: jonataborges01@gmail.com
 </br>
 </br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jonataslaw&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/jonataslaw)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jonataslaw&count_private=true&theme=cobalt&show_icons=true)](https://github.com/jonataslaw)
 </br>
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonataslaw&layout=compact&theme=tokyonight)](https://github.com/jonataslaw/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonataslaw&layout=compact&theme=cobalt)](https://github.com/jonataslaw/)
