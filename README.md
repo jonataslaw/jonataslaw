@@ -21,8 +21,10 @@ Today I work mostly with consultancy: <strong>legal</strong>, generally related 
   💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message: ⤵️
 </p>
 
-legal: borgesadvocacia@adv.oabsp.org.br
-personal: jonataborges01@gmail.com
+Emails:
+- borgesadvocacia@adv.oabsp.org.br
+- jonataborges01@gmail.com
+- jonatas@iris.finance
 
 <img align="left" alt="Flutter" height=20px width="50px"  src="https://user-images.githubusercontent.com/60929919/89158591-ff61ee80-d58b-11ea-9305-969d9e92363a.png" />
 
@@ -38,8 +40,10 @@ personal: jonataborges01@gmail.com
 
 </br>
 </br>
+<div>
+  <a href="https://github.com/jonataslaw">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonataslaw&count_private=true&theme=cobalt&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonataslaw&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
+</br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jonataslaw&count_private=true&theme=cobalt&show_icons=true)](https://github.com/jonataslaw)
-</br>
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonataslaw&layout=compact&theme=cobalt)](https://github.com/jonataslaw/)
